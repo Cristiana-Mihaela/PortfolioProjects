@@ -25,4 +25,4 @@
 - **Technology:** Excel
 - **Excel file:** 'Excel Project Dataset and Dashboard.xlsx'
 - **Dataset:** Bike Buyers Dataset
-- **Analysis:** Data Analysis, Pivot Tables, Pivot Charts, Slicers and Dashboard
+
