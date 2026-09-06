@@ -1,20 +1,29 @@
-# Portfolio Projects
+1. COVID-19 Data Analysis
 
-This repository contains my data analysis projects using SQL and Python.
+svg
 
-## Projects
+Technology: SQL
+SQL file: 'COVID-19 Data Analysis in SQL.sql'
+Datasets: CovidDeaths and CovidVaccinations
+2. Nashville Housing Data Cleaning
 
-### 1. COVID-19 Data Analysis
-- **Technology:** SQL
-- **SQL file:** 'COVID-19 Data Analysis in SQL.sql'
-- **Datasets:** CovidDeaths and CovidVaccinations
+svg
 
-### 2. Nashville Housing Data Cleaning
-- **Technology:** SQL
-- **SQL file:** 'Cleaning data project 2.sql'
-- **Dataset:** Nashville Housing Data
+Technology: SQL
+SQL file: 'Cleaning data project 2.sql'
+Dataset: Nashville Housing Data
+3. Movie Correlation Analysis
 
-### 3. Movie Correlation Analysis
-- **Technology:** Python
-- **Notebook:** 'Movie Correlation Project 3.ipynb'
-- **Dataset:** Movie Industry Data
+svg
+
+Technology: Python
+Notebook: 'Movie Correlation Project 3.ipynb'
+Dataset: Movie Industry Data
+4. Bike Buyers Data Analysis & Dashboard
+
+svg
+
+Technology: Excel
+Excel file: 'Excel Project Dataset and Dashboard.xlsx'
+Dataset: Bike Buyers Data
+Analysis: Pivot Tables, Pivot Charts, Slicers and Dashboard
