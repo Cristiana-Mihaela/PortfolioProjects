@@ -5,12 +5,12 @@
 - **SQL file:** 'COVID-19 Data Analysis in SQL.sql'
 - **Datasets:** CovidDeaths and CovidVaccinations
 
-### 2. Nashville Housing Data Cleaning
+### 2. Data Cleaning Projects
 
 
 - **Technology:** SQL
-- **SQL file:** 'Cleaning data project 2.sql'
-- **Dataset:** Nashville Housing Data
+- **SQL file:** 'Cleaning data project 2.sql', 'Data cleaning project mySQL.sql'
+- **Dataset:** Nashville Housing Data, Global Company Layoffs Dataset
 
 ### 3. Movie Correlation Analysis
 
